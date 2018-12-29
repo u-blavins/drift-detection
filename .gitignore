@@ -1,0 +1,7 @@
+# generated files
+*.pyc
+.idea
+.vscode
+
+# virtual environments
+venv
