@@ -2,6 +2,10 @@
 *.pyc
 .idea
 .vscode
+.DS_Store
 
 # virtual environments
 venv
+
+# temp files
+iam_test.json
